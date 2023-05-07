@@ -1,0 +1,3 @@
+[submodule "submodules/omikuji-go"]
+	path = submodules/omikuji-go
+	url = git@github.com:saki-engineering/omikuji-go.git
